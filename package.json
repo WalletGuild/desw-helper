@@ -1,0 +1,21 @@
+{
+  "name": "deswh",
+  "version": "0.0.1",
+  "description": "DESW account management helper",
+  "main": "deswh.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WalletGuild/desw-helper.git"
+  },
+  "keywords": [],
+  "author": "Ira Miller <ira@gitguild.com> (http://gitguild.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WalletGuild/desw-helper/issues"
+  },
+  "homepage": "https://github.com/WalletGuild/desw-helper",
+  "dependencies": {
+    "bitjws-js": "^0.0.4",
+    "request": "^2.76.0"
+  }
+}
